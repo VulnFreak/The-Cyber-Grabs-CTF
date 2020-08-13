@@ -7,7 +7,7 @@
 
 ### Solution
 
-After saw the challenge i got this that it is morse code simply use this [Morse to text](https://www.boxentriq.com/code-breaking/morse-code) and i got some message
+After saw the challenge i got this that it is morse code simply use this [Morse Decoder](https://www.boxentriq.com/code-breaking/morse-code) and i got some message
 
 **DECRYPTTHEFOLLOWING 66 6C 61 67 7B 4D 30 72 73 33 5F 43 30 64 33 7D**
 
