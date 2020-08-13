@@ -12,7 +12,7 @@ and searching as per instructions given in challenge the flag is posted and i sa
 <img alt="social" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/social_social01.jpeg">
 </p>
 
-This is not the correct format the flag was rotated by using [ROT](https://rot13.com/)
+This is not the correct format, The flag was rotated By using the [ROT](https://rot13.com/)
 I got the Social Flag :)
 
 **Author Deleted the post when the CTF was ended :)**
