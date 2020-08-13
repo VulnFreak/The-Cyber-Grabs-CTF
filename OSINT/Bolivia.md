@@ -31,7 +31,7 @@ So first thougt came in mind is that to crack all the password hash on [cracksta
   <img src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/crackstation.png>
  </p>
  
- From here I got a password I also done one this type so I directly try to put the cracked password in the flag and it work.
+ From here I got a password I also done one this type so I directly try to put the cracked password in the flag and it work.😉
  
  ## Flag:
  
