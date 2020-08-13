@@ -1,6 +1,8 @@
 # Challenge: Based
 
-![alt text](https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/bas3d.JPG)
+<p align="center">
+<img alter ="base" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/bas3d.JPG">
+</p>
 
 ### Solution
 After downloading the Bas3d.txt file i find some base64 encoding i try online tools to decode base64 and i saw a flag.txt file in string so
