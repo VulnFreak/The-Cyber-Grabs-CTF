@@ -11,7 +11,7 @@ After saw the challenge i got this that it is morse code simply use this [Morse 
 
 **DECRYPTTHEFOLLOWING 66 6C 61 67 7B 4D 30 72 73 33 5F 43 30 64 33 7D**
 
-again i get the Hex strings so i use [Hex to text](http://www.unit-conversion.info/texttools/hexadecimal/) and got the Morse Flag :)
+again i get the Hex strings so i use [Hex Decoder](http://www.unit-conversion.info/texttools/hexadecimal/) and got the Morse Flag :)
 
 ## Flag ->
 flag{M0rs3_C0d3}
