@@ -8,7 +8,7 @@ As challenge suggest ud **Author will help**. So I search for author social medi
 
 
 <p align="center">
-  <img  alt="wiki" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/wiki.pngg">
+  <img  alt="wiki" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/wiki.png">
 </p>
 
 
