@@ -5,7 +5,7 @@
 </p>
 
 ### Solution 
-In this challenge first i visit official intsta handle of the [Thecybergrabs](https://www.instagram.com/thecybergrabs/) from there i got the author [Instahandle](https://www.instagram.com/0xmahesh/) 
+In this challenge first i visit official intsta handle of the [Thecybergrabs](https://www.instagram.com/thecybergrabs/) from there i got the Author [Instahandle](https://www.instagram.com/0xmahesh/) 
 and searching as per instructions given in challenge the flag is posted and i saw the post and i got this 
 
 <p align="center">
