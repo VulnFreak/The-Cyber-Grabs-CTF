@@ -4,7 +4,7 @@
   <img alt="Kon'nichiwa"  src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/Kon'nichiwa%20.png">
 </p>
 
-So in this we are given a image.
+So in this we are given an image.
 
 <p align="center">
   <img  alt="image" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Challenge_docs/Konnichiwa.jpg">
