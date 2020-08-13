@@ -1,6 +1,8 @@
 # Challenge: Mr. Robot
 
-![alt text](https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/mr_robot.JPG)
+<p align="center">
+  <img alt="MrRobot" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/mr_robot.JPG">
+  </p>
 
 ### Solution 
 
