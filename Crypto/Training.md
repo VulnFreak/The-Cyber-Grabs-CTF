@@ -61,3 +61,7 @@ and after entering the password i got the Base flag :)
 
 ## Flag ->
 cyb3rg4abs{Ev3ry_B4s364_is_not_3ncrypt3d}
+
+# Challenge: Ancient_one
+
+![alt text](
