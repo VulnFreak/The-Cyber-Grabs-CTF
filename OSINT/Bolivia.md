@@ -25,10 +25,10 @@
 `anand:231adaf300d234e6cc56ab36f4e46d09e0fed0ab`
 
 
-So first thougt came in mind is that to crack all the password hash on [crackstation](https://crackstation.net/).
+So first thougt came in mind is that to crack all the password hash on [crackstation](https://crackstation.net).
 
 <p align="center">
-  <img src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/crackstation.png>
+  <img src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/crackstation.png">
  </p>
  
  From here I got a password I also done one this type so I directly try to put the cracked password in the flag and it work.😉
