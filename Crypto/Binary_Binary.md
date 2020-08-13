@@ -1,6 +1,8 @@
 # Challenge: binary_binary
 
-![alt text](https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/binary_binary.JPG)
+<p align="center">
+<img alt="binary" src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/binary_binary.JPG">
+  </p>
 
 ### Solution 
 first we try to convert the binary to text format for this we use site [Binary to text](https://www.rapidtables.com/convert/number/binary-to-ascii.html) 
