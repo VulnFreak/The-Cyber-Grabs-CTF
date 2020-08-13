@@ -10,7 +10,7 @@ In this we are given one user ***@LibyaLibyae***. So I searched for Instagram bu
   <img alt="tweet"  src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/tweet.png">
 </p>
 
-So I copy the Geolocation co-ordinate and copy them to the google maps and it directly takes me to the result.
+So I copy the Geolocation co-ordinate and paste them to the google maps and it directly takes me to the result.
 
 <p align="center">
   <img alt="hotel"  src="https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/Richard_Hotel.png">
