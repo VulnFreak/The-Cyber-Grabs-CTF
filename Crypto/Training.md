@@ -1,4 +1,4 @@
-# Training
+# Challenge: Training
 
    ![alt text](https://github.com/VulnFreak/The-Cyber-Grabs-CTF/blob/master/Images/taining.JPG)
 
